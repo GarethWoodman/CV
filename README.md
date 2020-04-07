@@ -1,55 +1,43 @@
-## Your Name
+## Gareth Woodman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Former IT Guy taking a leap into the world of coding, carrying over interpersonal and technical skills. Looking forward to upcoming projects and banging my head against the wall.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Adaptability
+I have worked in a range of indutries - virtually supporting all departments. Working in the IT sector has given me the fortune of seeing how a company runs as a whole. 
 
-#### This Skill
+#### Technical
+Supported and used a plethora of computing devices. Highly competent on Mac & Windows based platforms including Andorid & IOS.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Mar 2020 to July 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Aladdin, Jafar
 
-#### Your University / College (start_date to end_date)
+#### Buckinghamshire New University
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Business Information Technology
+- 2:1
+- Appointed Course Leader, Member of Bucks Boxing & Karate Societies, 3rd Year Fresher Helper
 
-#### Any other qualifications
+#### Central Bedfordshire College
 
-That in some arguable way make you a better software developer or well-rounded person
+- National Diploma in Computing
+- Distinction : Merit : Merit
+- Using my EMA for underage drinking
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**John Brown Media** (October 2017 to March 2020)    
+- IT Support Analyst 
+- Created a Visual Basic program that allowed Managers to book freelancers in a shared spreadsheet
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+**LGT Vestra** (March 2017 to August 2017)   
+- On-site Service Engineer  
+- Made an auto email unsubscriber on python during down-time
